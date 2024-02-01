@@ -1,0 +1,27 @@
+{
+  "name": "job-board-aggrigator",
+  "version": "1.0.0",
+  "description": "Web scraper for Indeed",
+  "main": "index.js",
+  "scripts": {
+    "test": "N/A"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/N/A.git"
+  },
+  "keywords": [
+    "N/A"
+  ],
+  "author": "JM89",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/N/A/issues"
+  },
+  "homepage": "https://github.com/N/A#readme",
+  "dependencies": {
+    "axios": "^1.6.5",
+    "cheerio": "^1.0.0-rc.12",
+    "selenium-webdriver": "^4.16.0"
+  }
+}
